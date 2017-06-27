@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="CustomTextView">
+        <attr name="txtDeafultBgColor" format="color" />
+        <attr name="txtPressBgColor" format="color" />
+        <attr name="txtBorderColor" format="color" />
+        <attr name="txtDeafultTxtColor" format="color" />
+        <attr name="txtPressTxtColor" format="color" />
+        <attr name="txtBorderStroke" format="integer" />
+        <attr name="txtLeftTopRadius" format="dimension" />
+        <attr name="txtRightTopRadius" format="dimension" />
+        <attr name="txtRightBottomRadius" format="dimension" />
+        <attr name="txtLeftBottomRadius" format="dimension" />
+        <attr name="txtisSetDrawable" format="boolean" />
+
+        <attr name="txtTypeface" format="enum">
+            <enum name="REGULAR" value="0" />
+            <enum name="BOLD" value="1" />
+            <enum name="LIGHT" value="2" />
+        </attr>
+
+    </declare-styleable>
+
+</resources>

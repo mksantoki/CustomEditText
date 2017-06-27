@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="regularFont">GothamHTFBook.ttf</string>
+    <string name="boldFont">GothamBoldRegular.otf</string>
+    <string name="lightFont">GothamLightRegular.otf</string>
+</resources>
